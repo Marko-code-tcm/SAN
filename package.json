@@ -1,0 +1,9 @@
+{
+  "name": "san-ai-vercel-audio",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "openai": "^5.10.2"
+  }
+}
